@@ -1,6 +1,6 @@
 {
   "name": "minimodal",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "description": "Minimal, customizable, responsive modals",
   "main": "minimodal.js",
   "style": "minimodal.css",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdmoreau/minimodal.git"
+    "url": "git+https://github.com/influxweb/minimodal.git"
   },
   "keywords": [
     "modal",
@@ -18,12 +18,12 @@
     "customizable",
     "responsive"
   ],
-  "author": "mdmoreau",
+  "author": "influxweb",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mdmoreau/minimodal/issues"
+    "url": "https://github.com/influxweb/minimodal/issues"
   },
-  "homepage": "https://github.com/mdmoreau/minimodal#readme",
+  "homepage": "https://github.com/influxweb/minimodal#readme",
   "devDependencies": {
     "browser-sync": "^2.12.8"
   }
